@@ -1,0 +1,8 @@
+public class main {
+    public static void main(string){
+        system.out.println("*");
+        system.out.println("**");
+        system.out.println("***");
+        system.out.println("****");
+    }
+}
