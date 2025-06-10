@@ -2,9 +2,9 @@ public class loops {
 
     public static void main(String args[]) {
 
-        for(int counter = 0; counter < 5; counter = counter + 1) {
-            System.out.println("job ");
-        }
+       for(int counter = 0; counter < 11; counter++) {
+          System.out.println(counter);
+       }
+
     }
-    
 }
