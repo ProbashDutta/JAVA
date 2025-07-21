@@ -5,6 +5,11 @@ public class Array {
         marks[1] = 89;  // chem
         marks[2] = 95;  // math
 
+        for(int i=0; i<3; i++) {
+            System.out.println(marks[i]);
+
+        }
+
     }
 
     
